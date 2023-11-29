@@ -11,7 +11,7 @@
 este projeto é uma tela de login que pode compor 
 outro site futuramente.
 
-![capa do projeto](img/image.png)
+![capituras de tela](img/image.png)
 # funcionalidades
 colocar usuario e senha para entrar um uma outra pagina
 # tecnologias utilizadas
