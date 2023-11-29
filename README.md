@@ -8,12 +8,13 @@
 
 
 # descrição
-atividade avalia tiva dada pelo professor para fazer um site form-login
+este projeto é uma tela de login que pode compor 
+outro site futuramente.
 # funcionalidades
-login e senha
+colocar usuario e senha para entrar um uma outra pagina
 # tecnologias utilizadas
-internet
+Lep top, internet, HTML 5, CSS 3, bootstrap
 # fontes utilizadas
-bootstrap
+[Bootstrap 5](https://getbootstrap.com/)
 # autores
-cristian 
+Cristian 
