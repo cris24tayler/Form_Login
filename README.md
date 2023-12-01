@@ -11,7 +11,7 @@
 este projeto é uma tela de login que pode compor 
 outro site futuramente.
 
-![IMAGEM PARA O PROJETO FORM_LOGIN](img/image.png)
+![IMAGEM PARA O PROJETO FORM_LOGIN](img/tela.png)
 # funcionalidades
 colocar usuario e senha para entrar um uma outra pagina
 # tecnologias utilizadas
